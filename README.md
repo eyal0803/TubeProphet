@@ -8,8 +8,7 @@
     "videos": [
         "<YouTube Video ID>",
         "<YouTube Video ID>",
-        "<YouTube Video ID>",
-        ...
+        "<YouTube Video ID>"
     ]
 }
 ```
